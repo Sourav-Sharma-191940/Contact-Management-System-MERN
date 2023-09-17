@@ -1,4 +1,4 @@
-# cms-mern
+# cms-frotend
 
 This is the MERN project.
 
@@ -6,8 +6,12 @@ This is the MERN project.
 To start the frontend-
 In the project directory, you can run:
 
-### `yarn install`
-### `yarn start`
+```
+yarn install
+```
+```
+yarn start
+```
 
 
 # cms-backend
