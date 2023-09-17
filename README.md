@@ -4,9 +4,16 @@ This is the MERN project.
 
 
 To start the frontend- 
-yarn install - if not install in your system
+yarn install 
 yarn start
 
 
 To start the backend - 
-create a process.env file in 
+yarn install
+create a config.env file inside config folder
+ADD inside file
+JWT_SECRET = enter any group of letters (atleast 20 letters)
+MONGODB_URI = your mongodb atlas connection string
+
+To start the server 
+nodemon app.js
