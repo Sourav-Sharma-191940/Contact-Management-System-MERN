@@ -10,22 +10,6 @@ In the project directory, you can run:
 ### `yarn start`
 
 
-
-To start the backend - 
-
-### `yarn install`
-
-create a config.env file inside config folder
-
-ADD inside file
-
-JWT_SECRET = enter any group of letters (atleast 20 letters)
-MONGODB_URI = your mongodb atlas connection string
-
-To start the server 
-nodemon app.js
-
-
 # cms-backend
 To get started with backend-
 
@@ -38,5 +22,16 @@ config.env
 ```
 JWT_SECRET =
 MONGODB_URI =
+```
+
+### run these commands in the terminal
+```
+yarn install
+```
+```
+yarn start
+```
+```
+nodemon app.js
 ```
 
