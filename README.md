@@ -1,7 +1,13 @@
-# cms-frotend
+# Contact Management System
 
-This is the MERN project.
+### This project is made using (MERN stack) MongoDB, ExpressJs, ReactJS & NodeJS.
 
+### Features-
+
+
+
+
+# cms-frontend
 
 To start the frontend-
 In the project directory, you can run:
