@@ -3,13 +3,13 @@
 ### This project is made using (MERN stack) MongoDB, ExpressJs, ReactJS & NodeJS.
 
 ### Features-
-Different user can create their account and add their contact list. &&
-The contact list will shown according to the user logged in. &&
-There is email validation added so that the user can input the right email only.
-There is a search functionality through which users can search for the contacts of a specific person.
-User can do CRUD operations on their contact- Create a contact, edit the contact, filter the contact, and delete the contact.
-Users can download all the contacts into to Excel sheet.
-I have added JsonWebToken in the app so that users can't get logged out on every operation.
+Different user can create their account and add their contact list. <br>
+The contact list will shown according to the user logged in. <br>
+There is email validation added so that the user can input the right email only. <br>
+There is a search functionality through which users can search for the contacts of a specific person. <br>
+User can do CRUD operations on their contact- Create a contact, edit the contact, filter the contact, and delete the contact. <br>
+Users can download all the contacts into to Excel sheet. <br>
+I have added JsonWebToken in the app so that users can't get logged out on every operation. <br>
 
 
 
