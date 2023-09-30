@@ -45,9 +45,7 @@ MONGODB_URI =
 ```
 yarn install
 ```
-```
-yarn start
-```
+
 ```
 nodemon app.js
 ```
